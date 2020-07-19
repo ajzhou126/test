@@ -1,0 +1,26 @@
+{
+    "id": "5A35A341",
+    "path": "~/Desktop/test/first rmarkdown.Rmd",
+    "project_path": "first rmarkdown.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1595126634895.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "18,13",
+        "scrollLine": "11",
+        "last_setup_crc32": "84A35E7Bbb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595126682,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595126919729,
+    "read_only": false,
+    "read_only_alternatives": []
+}
